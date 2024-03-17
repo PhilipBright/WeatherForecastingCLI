@@ -1,1 +1,1 @@
-![image](https://github.com/PhilipBright/WeatherForecastingCLI/assets/90340993/e0abc7f6-94dc-40ad-9ea2-bd8ddc2b4247) Type and run any country to forecast weather!
+![image](https://github.com/PhilipBright/WeatherForecastingCLI/assets/90340993/226257b7-5a25-46a3-a67c-1d41ba53ff07) Type and run any country to forecast weather!
